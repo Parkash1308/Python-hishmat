@@ -1,2 +1,2 @@
-# FullStack
-html, CSS and JavaScript
+Python
+AI/ML
