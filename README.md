@@ -1,2 +1,2 @@
-Python
+Python development
 AI/ML
